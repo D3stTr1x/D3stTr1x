@@ -16,7 +16,7 @@
 
 ---
 
-## `01` // ABOUT ME
+## `01` ABOUT ME
 
 - 🎮 Developing games with Unity and C#
 - 🏎️ Into cars, JDM culture and drifting
@@ -24,7 +24,7 @@
 - 💻 Exploring multiple programming languages
 - 🔥 Turning ideas into playable experiences
 
-## `02` // TECH STACK
+## `02` TECH STACK
 
 <div align="center">
 
