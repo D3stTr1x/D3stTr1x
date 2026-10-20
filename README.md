@@ -147,7 +147,7 @@ A private game development project centered on trucking, transportation, and sim
 *Source code is private.*
 
 <h2>
-  <img src="04.svg" alt="04 TELEMETRY & STATISTICS" />
+  <img src="04.svg" alt="04 TELEMETRY AND STATISTICS" />
 </h2>
 
 <div align="center">
