@@ -52,10 +52,10 @@ An automotive game project focused on vehicle control, driving mechanics, and dr
 
 <div align="center">
   <a href="https://github.com/D3stTr1x/Autosim">
-    <img src="./autosim.jpg" width="100%" alt="Autosim project preview" />
+    <img src="./autosim.png" width="100%" alt="Autosim project preview" />
   </a>
   <br>
-  <a href="https://github.com/D3stTr1x/Autosim"><strong>↗ VIEW REPOSITORY</strong></a>
+  <a href="https://github.com/D3stTr1x/Autosim"></a>
 </div>
 
 ---
@@ -69,7 +69,6 @@ A private game development project focused on trucking and transportation gamepl
 <div align="center">
   <img src="./pickup.png" width="100%" alt="HaulerGame project preview" />
   <br>
-  <strong>🔒 PRIVATE PROJECT</strong>
 </div>
 
 *The source code is private.*
