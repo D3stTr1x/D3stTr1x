@@ -63,19 +63,16 @@
 
   **`02 / PROGRAMMING LANGUAGES`**
 
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,html,css,sql&theme=dark" alt="C++, Java, Kotlin, Python, Html, CSS, SQL" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/C%2B%2B-0B0B0D?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JAVA-0B0B0D?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/KOTLIN-0B0B0D?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/PYTHON-0B0B0D?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML-0B0B0D?style=flat-square&logo=html&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-0B0B0D?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/SQL-0B0B0D?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
-
-  <br><br>
+<img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,html,css,mysql&theme=dark" alt="C++, Java, Kotlin, Python, HTML, CSS, SQL" />
+<br>
+<img src="https://img.shields.io/badge/C%2B%2B-0B0B0D?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/JAVA-0B0B0D?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/KOTLIN-0B0B0D?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/PYTHON-0B0B0D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML-0B0B0D?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-0B0B0D?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/SQL-0B0B0D?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<br><br>
 
   **`03 / DEVELOPMENT TOOLS`**
 
