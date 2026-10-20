@@ -22,8 +22,9 @@
 </div>
 
 ---
-
-01 <span style="color: #E31B23;">DRIVER PROFILE</span>
+<h2>
+  01 <img src="https://img.shields.io/badge/DRIVER_PROFILE-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="DRIVER PROFILE" />
+</h2>
 
 **ENGINE** <img src="https://img.shields.io/badge/Unity-0B0B0D?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
 
