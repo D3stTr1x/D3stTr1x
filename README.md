@@ -19,13 +19,20 @@
 
 ---
 
-## `01` ABOUT ME
 
-- 🎮 Developing games with Unity and C#
-- 🏎️ Into cars, JDM culture and drifting
-- ⚙️ Interested in vehicle physics and gameplay systems
-- 💻 Exploring multiple programming languages
-- 🔥 Turning ideas into playable experiences
+## `01 // DRIVER PROFILE`
+
+> Not just writing code.
+> Building experiences worth playing.
+
+- `ENGINE`     — Unity
+- `LANGUAGE`   — C#
+- `FOCUS`      — Gameplay & Vehicle Physics
+- `INTERESTS`  — JDM / Drifting / Simulation
+- `OBJECTIVE`  — Turn ideas into playable worlds
+
+**CURRENT MODE:** `LEARNING → BUILDING → REFINING`
+
 
 ## `02` TECH STACK
 
