@@ -16,7 +16,7 @@
 
 ---
 
-## `01` // ABOUT ME
+## `01` ABOUT ME
 
 - 🎮 Developing games with Unity and C#
 - 🏎️ Into cars, JDM culture and drifting
@@ -24,7 +24,7 @@
 - 💻 Exploring multiple programming languages
 - 🔥 Turning ideas into playable experiences
 
-## `02` // TECH STACK
+## `02` TECH STACK
 
 <div align="center">
 
@@ -42,7 +42,7 @@
 
 </div>
 
-## `03` // MY GARAGE
+## `03` MY GARAGE
 
 ### 🏁 Autosim
 
@@ -74,14 +74,14 @@ A private game development project focused on trucking and transportation gamepl
 
 *The source code is private.*
 
-## `04` // GITHUB STATISTICS
+## `04` GITHUB STATISTICS
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=D3stTr1x&show_icons=true&hide_border=true&bg_color=0B0B0D&title_color=E31B23&icon_color=E31B23&text_color=E5E5E5" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3stTr1x&layout=compact&hide_border=true&bg_color=0B0B0D&title_color=E31B23&text_color=E5E5E5" alt="Most used languages" />
 </div>
 
-## `05` // DEVELOPER MINDSET
+## `05` DEVELOPER MINDSET
 
 ```text
 [+] Learn
