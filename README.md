@@ -87,6 +87,31 @@
 
 </div>
 
+
+<h2>
+  <img src="04.svg" alt="03 TELEMETRY AND STATISTICS" />
+</h2>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=D3stTr1x&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0B0B0D&title_color=E31B23&icon_color=E31B23&text_color=E5E5E5&ring_color=E31B23" height="180" alt="GitHub profile statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3stTr1x&layout=compact&hide_border=true&langs_count=8&bg_color=0B0B0D&title_color=E31B23&text_color=E5E5E5" height="180" alt="Most used programming languages" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=D3stTr1x&theme=dark&hide_border=true&background=0B0B0D&ring=E31B23&fire=E31B23&currStreakLabel=E31B23&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="100%" alt="GitHub contribution streak statistics" />
+
+  <br>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=footer" width="100%" alt="" />
+
+</div>
+
 <h2>
   <img src="03.svg" alt="03 MY GARAGE" />
 </h2>
@@ -140,31 +165,6 @@ A private game development project centered on trucking, transportation, and sim
 - Trucking and transportation gameplay
 - Simulation-oriented game systems
 - Building an immersive driving experience
-
-
-<h2>
-  <img src="04.svg" alt="04 TELEMETRY AND STATISTICS" />
-</h2>
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=D3stTr1x&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0B0B0D&title_color=E31B23&icon_color=E31B23&text_color=E5E5E5&ring_color=E31B23" height="180" alt="GitHub profile statistics" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3stTr1x&layout=compact&hide_border=true&langs_count=8&bg_color=0B0B0D&title_color=E31B23&text_color=E5E5E5" height="180" alt="Most used programming languages" />
-
-  <br><br>
-
-  <img src="https://streak-stats.demolab.com?user=D3stTr1x&theme=dark&hide_border=true&background=0B0B0D&ring=E31B23&fire=E31B23&currStreakLabel=E31B23&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="100%" alt="GitHub contribution streak statistics" />
-
-  <br>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=footer" width="100%" alt="" />
-
-</div>
 
 <h2>
   <img src="05.svg" alt="05 DEVELOPER MINDSET" />
