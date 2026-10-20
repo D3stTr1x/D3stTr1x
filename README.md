@@ -177,8 +177,9 @@ A private game development project centered on trucking, transportation, and sim
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=E31B23&center=true&vCenter=true&width=400&lines=%5B%2B%5D+LEARN;%5B%2B%5D+BUILD;%5B%2B%5D+TEST;%5B%2B%5D+IMPROVE;%5B_%5D+ONE+MORE+DRIFT..." alt="Animated developer mindset" />
 
   <br>
-
-  ### `I don't follow the flow. I find my own trajectory`
+  <h2>
+   <img src="Phrase.svg" alt="I don't follow the flow. I find my own trajectory" />
+  </h2>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5121B,50:450609,100:0B0B0D&height=120&section=footer" width="100%" alt="Red and black animated-style footer" />
 
