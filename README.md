@@ -70,7 +70,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-Programming-0B0B0D?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JAVA-Programming-0B0B0D?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/KOTLIN-Programming-0B0B0D?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/PYTHON-Scripting-0B0B0D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PYTHON-Programming-0B0B0D?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
   <br><br>
 
