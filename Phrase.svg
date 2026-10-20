@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="40" viewBox="0 0 800 40">
-  <rect width="800" height="40" rx="4" fill="#0D1117"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="750" height="40" viewBox="0 0 750 40">
+  <rect width="750" height="40" rx="4" fill="#0D1117"/>
   <text x="16" y="27" font-family="Segoe UI, Helvetica, Arial, sans-serif"
         font-size="30" font-weight="700" letter-spacing="1">
     <tspan fill="#E5232B" dx="10">I don't follow the flow. I find my own trajectory</tspan>
