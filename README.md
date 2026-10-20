@@ -37,14 +37,10 @@
 **OBJECTIVE** Turning ideas into playable worlds.
 
 <sub><img src="https://img.shields.io/badge/CURRENT_MODE-LEARNING_%E2%86%92_BUILDING_%E2%86%92_REFINING-E31B23?style=flat-square" alt="Current mode: Learning, Building, Refining" /></sub>
-
-<h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
   <img src="02.svg" alt="02 TECH STACK" />
-</h2>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B0D&height=3&section=header" width="100%" alt="" />
 
   <br>
 
@@ -83,16 +79,12 @@
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=footer" width="100%" alt="" />
-
 </div>
-
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
   <img src="04.svg" alt="03 TELEMETRY AND STATISTICS" />
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
 
   <br>
 
@@ -110,10 +102,9 @@
 
 </div>
 
-<h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
   <img src="03.svg" alt="04 MY GARAGE" />
-</h2>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
 ### <img src="https://img.shields.io/badge/PROJECT-001-E31B23?style=flat-square" alt="Project 001" /> Autosim
 
 **VEHICLE SIMULATION / UNITY / C#**
@@ -163,11 +154,9 @@ A private game development project centered on trucking, transportation, and sim
 - Trucking and transportation gameplay
 - Simulation-oriented game systems
 - Building an immersive driving experience
-
-<h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
   <img src="05.svg" alt="05 DEVELOPER MINDSET" />
-</h2>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
 <div align="center">
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1800&pause=500&color=E31B23&center=true&vCenter=true&width=400&lines=%5B%2B%5D+LEARN;%5B%2B%5D+BUILD;%5B%2B%5D+TEST;%5B%2B%5D+IMPROVE;%5B_%5D+ONE+MORE+DRIFT..." alt="Animated developer mindset" />
