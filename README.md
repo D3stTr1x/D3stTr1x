@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" paddingdown="2px"/>
   <img src="driver-profile.svg" alt="01 DRIVER PROFILE" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
 
