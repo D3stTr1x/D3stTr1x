@@ -5,6 +5,13 @@
 <br>
 
 <div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=800&color=E31B23&center=true&vCenter=true&width=600&lines=UNITY+GAME+DEVELOPER;BUILDING+VEHICLE+SIMULATIONS;CODE.+DRIVE.+REPEAT.;ALWAYS+CHASING+THE+NEXT+BUILD."
+    alt="Animated developer introduction"
+  />
+</div>
+
+<div align="center">
   <strong>GAME DEVELOPER · UNITY · AUTOMOTIVE ENTHUSIAST</strong>
   <br><br>
   <code>BUILD. DRIVE. REPEAT.</code>
