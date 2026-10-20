@@ -1,3 +1,4 @@
+<div style="background-color:#0B0B0D; padding: 20px; border-radius: 8px;">
  <div align="center">
 
   <img src="./banner-animated.gif" width="100%" alt="D3stTr1x — Dark Motorsport" />
@@ -164,4 +165,5 @@ A private game development project centered on trucking, transportation, and sim
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D5A,50:C23A42,100:5C1A1F&height=120&section=footer" width="100%" alt="Red and black animated-style footer" />
 
+</div>
 </div>
