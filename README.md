@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/FOCUS-GAMEPLAY-0B0B0D?style=flat-square" alt="Gameplay" />
   <img src="https://img.shields.io/badge/MODE-BUILDING-0B0B0D?style=flat-square" alt="Building" />
 
-  <br><br>
-
   <a href="https://github.com/D3stTr1x"><img src="https://img.shields.io/badge/GitHub-0B0B0D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-0B0B0D?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-B5121B?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /></a>
