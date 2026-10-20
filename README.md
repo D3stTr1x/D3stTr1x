@@ -19,11 +19,9 @@
 
 </div>
 
----
-
-<h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
   <img src="driver-profile.svg" alt="01 DRIVER PROFILE" />
-</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
 
 
 **ENGINE** <img src="https://img.shields.io/badge/Unity-0B0B0D?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
