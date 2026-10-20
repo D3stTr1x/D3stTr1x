@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="40" viewBox="0 0 600 40">
+  <rect width="600" height="40" rx="4" fill="#0D1117"/>
+  <text x="16" y="27" font-family="Segoe UI, Helvetica, Arial, sans-serif"
+        font-size="36" font-weight="700" letter-spacing="1">
+    <tspan fill="#E5232B" dx="10">I don't follow the flow. I find my own trajectory</tspan>
+  </text>
+</svg>
