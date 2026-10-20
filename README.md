@@ -49,7 +49,7 @@
 
 My automotive game project focused on vehicle control, driving mechanics and drifting.
 
-[![View Repository](https://img.shields.io/badge/VIEW_PROJECT-B5121B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3stTr1x/Autosim)
+[![View Repository](<img src="autosim.jpg">)](https://github.com/D3stTr1x/Autosim)
 
 ---
 
@@ -58,7 +58,7 @@ My automotive game project focused on vehicle control, driving mechanics and dri
 
 A private game development project focused on trucking and transportation gameplay.
 
-[![Private Repository](https://img.shields.io/badge/PRIVATE_PROJECT-202020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/D3stTr1x/HaulerGame)
+[![Private Repository](<img src="pickup.png">)](https://github.com/D3stTr1x/HaulerGame)
 
 *The source code is private.*
 
