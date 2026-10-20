@@ -20,7 +20,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" style="margin-bottom: 80px;"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt=""/>
   <img src="driver-profile.svg" alt="01 DRIVER PROFILE" />
 <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=header" width="100%" alt="" />
 
@@ -96,8 +96,6 @@
   <img src="https://streak-stats.demolab.com?user=D3stTr1x&theme=dark&hide_border=true&background=0B0B0D&ring=E31B23&fire=E31B23&currStreakLabel=E31B23&sideLabels=E5E5E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="100%" alt="GitHub contribution streak statistics" />
 
   <br>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=450609&height=2&section=footer" width="100%" alt="" />
 
 </div>
 
