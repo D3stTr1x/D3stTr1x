@@ -24,8 +24,7 @@
 ---
 
 <h2>
-  <span style="color: #E6EDF3;">01</span>
-  <span style="color: #FF1E2D;">DRIVER PROFILE</span>
+  <img src="driver-profile.svg" alt="01 DRIVER PROFILE" />
 </h2>
 
 
