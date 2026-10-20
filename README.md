@@ -67,7 +67,7 @@ An automotive game project focused on vehicle control, driving mechanics, and dr
 A private game development project focused on trucking and transportation gameplay.
 
 <div align="center">
-  <img src="./pickup1.png" width="100%" alt="HaulerGame project preview" />
+  <img src="./pickup.png" width="100%" alt="HaulerGame project preview" />
   <br>
 </div>
 
