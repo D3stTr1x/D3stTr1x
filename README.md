@@ -147,6 +147,10 @@ A private game development project centered on trucking, transportation, and sim
 *Source code is private.*
 
 <h2>
+  <img src="03.svg" alt="03 MY GARAGE" />
+</h2>
+
+<h2>
   <img src="04.svg" alt="04 TELEMETRY AND STATISTICS" />
 </h2>
 
