@@ -178,7 +178,7 @@ A private game development project centered on trucking, transportation, and sim
 
   <br>
 
-  ### `I don't follow the flow. I find the line`
+  ### `I don't follow the flow. I find my own trajectory`
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B5121B,50:450609,100:0B0B0D&height=120&section=footer" width="100%" alt="Red and black animated-style footer" />
 
