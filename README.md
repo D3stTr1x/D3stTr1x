@@ -74,7 +74,7 @@
 
   **`03 / DEVELOPMENT TOOLS`**
 
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,idea,androidstudio,pycharm&theme=dark" alt="Git, GitHub, Visual Studio, IntelliJ IDEA, Android Studio and PyCharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,visualstudiocode,idea,androidstudio,pycharm&theme=dark" alt="Git, GitHub, Visual Studio, Visual Studio Code, IntelliJ IDEA, Android Studio and PyCharm" />
 
   <br>
 
