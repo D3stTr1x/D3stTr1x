@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <div align="center">
   <img src="banner.png" width="100%" alt="D3STTR1X — Black & Red Racing" />
 </div>
