@@ -179,6 +179,6 @@ A private game development project centered on trucking, transportation, and sim
    <img src="Phrase.svg" alt="I don't follow the flow. I find my own trajectory" />
   </h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:9B2226,100:370617&height=120&section=footer" width="100%" alt="Red and black animated-style footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D5A,50:C23A42,100:5C1A1F&height=120&section=footer" width="100%" alt="Red and black animated-style footer" />
 
 </div>
