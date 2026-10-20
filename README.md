@@ -88,9 +88,7 @@
 </div>
 
 
-<h2>
   <img src="04.svg" alt="03 TELEMETRY AND STATISTICS" />
-</h2>
 
 <div align="center">
 
