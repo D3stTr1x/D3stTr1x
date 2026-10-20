@@ -170,8 +170,6 @@ A private game development project centered on trucking, transportation, and sim
 
 </div>
 
-<sub>TELEMETRY NOTE // Statistics and language rankings are generated dynamically and may take time to update.</sub>
-
 <h2>
   <img src="05.svg" alt="05 DEVELOPER MINDSET" />
 </h2>
