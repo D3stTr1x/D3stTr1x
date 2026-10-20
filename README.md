@@ -23,7 +23,7 @@
 
 ---
 
-## 01 <img src="https://img.shields.io/badge/DRIVER_PROFILE-E31B23?style=flat-square" alt="Driver Profile" />
+01 <span style="color: #E31B23;">DRIVER PROFILE</span>
 
 **ENGINE** <img src="https://img.shields.io/badge/Unity-0B0B0D?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
 
