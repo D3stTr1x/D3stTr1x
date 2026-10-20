@@ -30,11 +30,11 @@
 
 **GAME DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp&theme=dark" alt="Unity, C#, C++" />
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp&theme=dark" alt="Unity, C#" />
 
 **PROGRAMMING LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,python&theme=dark" alt="Java, Kotlin, Python" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,python&theme=dark" alt="C++, Java, Kotlin, Python" />
 
 **TOOLS**
 
