@@ -42,7 +42,7 @@
 
 </div>
 
-## `03` // MY GARAGE
+## `03` MY GARAGE
 
 ### 🏁 Autosim
 **Unity · C# · Vehicle Simulation**
