@@ -23,25 +23,35 @@
 
 ---
 
-## `01 // DRIVER PROFILE`
+## 01 <img src="https://img.shields.io/badge/DRIVER_PROFILE-E31B23?style=flat-square" alt="Driver Profile" />
 
 > Not just writing code.
 >
 > Building experiences worth playing.
 
-```text
-┌─────────────────────────────────────────┐
-│  DEVELOPER PROFILE              [001]   │
-├─────────────────────────────────────────┤
-│  ENGINE       Unity                     │
-│  LANGUAGE     C#                        │
-│  FOCUS        Gameplay / Vehicle Physics│
-│  INTERESTS    JDM / Drifting / Sim      │
-│  OBJECTIVE    Build playable worlds     │
-└─────────────────────────────────────────┘
-```
+**ENGINE**
 
-**CURRENT MODE:** `LEARNING → BUILDING → REFINING`
+<img src="https://img.shields.io/badge/Unity-0B0B0D?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+
+**LANGUAGE**
+
+<img src="https://img.shields.io/badge/C%23-E31B23?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />
+
+**FOCUS**
+
+`Gameplay` · `Vehicle Physics`
+
+**INTERESTS**
+
+`JDM` · `Drifting` · `Simulation`
+
+**OBJECTIVE**
+
+Turning ideas into playable worlds.
+
+---
+
+<sub><img src="https://img.shields.io/badge/CURRENT_MODE-LEARNING_%E2%86%92_BUILDING_%E2%86%92_REFINING-E31B23?style=flat-square" alt="Current mode: Learning, Building, Refining" /></sub>
 
 ## `02 // SYSTEMS ONLINE`
 
