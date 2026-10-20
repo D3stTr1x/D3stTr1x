@@ -12,10 +12,6 @@
 </div>
 
 <div align="center">
-  <strong>GAME DEVELOPER · UNITY · AUTOMOTIVE ENTHUSIAST</strong>
-  <br><br>
-  <code>BUILD. DRIVE. REPEAT.</code>
-  <br><br>
   <a href="https://github.com/D3stTr1x"><img src="https://img.shields.io/badge/GitHub-0B0B0D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://unity.com/"><img src="https://img.shields.io/badge/Unity-0B0B0D?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-B5121B?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"></a>
