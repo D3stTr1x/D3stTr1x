@@ -41,7 +41,7 @@
 <sub><img src="https://img.shields.io/badge/CURRENT_MODE-LEARNING_%E2%86%92_BUILDING_%E2%86%92_REFINING-E31B23?style=flat-square" alt="Current mode: Learning, Building, Refining" /></sub>
 
 <h2>
-  <img src="02.svg" alt="02 SYSTEMS ONLINE" />
+  <img src="02.svg" alt="02 TECH STACK" />
 </h2>
 
 <div align="center">
@@ -63,7 +63,7 @@
 
   **`02 / PROGRAMMING LANGUAGES`**
 
-  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python&theme=dark" alt="C++, Java, Kotlin, Python" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,python,html,css,sql&theme=dark" alt="C++, Java, Kotlin, Python, Html, CSS, SQL" />
 
   <br>
 
@@ -71,6 +71,9 @@
   <img src="https://img.shields.io/badge/JAVA-0B0B0D?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/KOTLIN-0B0B0D?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/PYTHON-0B0B0D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-0B0B0D?style=flat-square&logo=html&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-0B0B0D?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/SQL-0B0B0D?style=flat-square&logo=sql&logoColor=white" alt="SQL" />
 
   <br><br>
 
