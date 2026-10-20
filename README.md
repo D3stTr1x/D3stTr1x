@@ -56,8 +56,8 @@
 
   <br>
 
-  <img src="https://img.shields.io/badge/UNITY-Game_Engine-E31B23?style=flat-square&logo=unity&logoColor=white" alt="Unity Game Engine" />
-  <img src="https://img.shields.io/badge/C%23-Gameplay_Programming-0B0B0D?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp Gameplay Programming" />
+  <img src="https://img.shields.io/badge/UNITY-E31B23?style=flat-square&logo=unity&logoColor=white" alt="Unity Game Engine" />
+  <img src="https://img.shields.io/badge/C%23-0B0B0D?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp Gameplay Programming" />
 
   <br><br>
 
@@ -67,10 +67,10 @@
 
   <br>
 
-  <img src="https://img.shields.io/badge/C%2B%2B-Programming-0B0B0D?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JAVA-Programming-0B0B0D?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/KOTLIN-Programming-0B0B0D?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/PYTHON-Programming-0B0B0D?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0B0B0D?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JAVA-0B0B0D?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/KOTLIN-0B0B0D?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/PYTHON-0B0B0D?style=flat-square&logo=python&logoColor=white" alt="Python" />
 
   <br><br>
 
@@ -80,8 +80,8 @@
 
   <br>
 
-  <img src="https://img.shields.io/badge/GIT-Version_Control-E31B23?style=flat-square&logo=git&logoColor=white" alt="Git Version Control" />
-  <img src="https://img.shields.io/badge/IDE-Development_Tools-0B0B0D?style=flat-square" alt="Development Tools" />
+  <img src="https://img.shields.io/badge/GIT-E31B23?style=flat-square&logo=git&logoColor=white" alt="Git Version Control" />
+  <img src="https://img.shields.io/badge/IDE-0B0B0D?style=flat-square" alt="Development Tools" />
 
   <br><br>
 
