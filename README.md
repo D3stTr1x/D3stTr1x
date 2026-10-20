@@ -22,7 +22,9 @@
 </div>
 
 ---
-## 01 — DRIVER PROFILE
+<h2>
+  01 <img src="https://img.shields.io/badge/DRIVER_PROFILE-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" alt="DRIVER PROFILE" />
+</h2>
 
 **ENGINE** <img src="https://img.shields.io/badge/Unity-0B0B0D?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
 
@@ -33,8 +35,6 @@
 **INTERESTS** `JDM` · `Drifting` · `Simulation`
 
 **OBJECTIVE** Turning ideas into playable worlds.
-
----
 
 <sub><img src="https://img.shields.io/badge/CURRENT_MODE-LEARNING_%E2%86%92_BUILDING_%E2%86%92_REFINING-E31B23?style=flat-square" alt="Current mode: Learning, Building, Refining" /></sub>
 
