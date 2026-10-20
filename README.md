@@ -3,9 +3,6 @@
 </div>
 
 <br/>
- <div align="center">
-  <img src="assets/banner.png" width="100%" alt="D3STTR1X Racing Banner" />
-
   # D3STTR1X
 
   **GAME DEVELOPER · UNITY · AUTOMOTIVE ENTHUSIAST**
@@ -20,26 +17,6 @@
 ---
 
 ## `01` // ABOUT ME
-
-```csharp
-public class Developer
-{
-    public string Alias = "D3STTR1X";
-    public string MainEngine = "Unity";
-
-    public string[] Languages =
-    {
-        "C#", "C++", "Java",
-        "Kotlin", "Python"
-    };
-
-    public string Interests =
-        "Games, Cars & Drifting";
-
-    public string Motto =
-        "Build. Drive. Repeat.";
-}
-```
 
 - 🎮 Developing games with Unity and C#
 - 🏎️ Into cars, JDM culture and drifting
