@@ -133,7 +133,6 @@ A private game development project centered on trucking, transportation, and sim
 
   <br>
 
-  <img src="https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-E31B23?style=flat-square" alt="In development" />
   <img src="https://img.shields.io/badge/SOURCE-PRIVATE-0B0B0D?style=flat-square" alt="Private source code" />
 
 </div>
